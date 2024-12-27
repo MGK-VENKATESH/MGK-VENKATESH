@@ -30,7 +30,7 @@ He/Him
 ![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGK-VENKATESH&show_icons=true&theme=radical)  
 
 ### 🏆 Highlights  
-- 📂 Check out my recent project: **[Project Name](https://github.com/your-repository)**  
+- 📂 Check out my recent project: **[Spread of COVID 19](https://github.com/MGK-VENKATESH/Mac-VS-code/tree/main/Python/BTHAssignment2)**  
 - 🌟 Top skills: **Python, Pandas, NumPy, Matplotlib, Scikit-Learn, SQL**  
 
 ---
