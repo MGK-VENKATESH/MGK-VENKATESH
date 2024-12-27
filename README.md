@@ -8,9 +8,10 @@ I'm a passionate **Data Science Aspirant** and skilled **Python Developer**, I a
 - Contributing to open-source projects related to data analytics and visualization.
 
 ### 📝 What I'm Learning
-- Advanced topics in **Data Engineering** and **Big Data** (Spark, Hadoop).  
-- Mastering **Cloud Technologies** like AWS for scalable data solutions.  
-- Diving deeper into **Time Series Analysis** and **Recommendation Systems**.  
+- Learning **Data Science Frameworks** like TensorFlow, PyTorch, and Scikit-Learn.  
+- Exploring advanced **Statistical Modeling** and **Bayesian Analysis**. 
+- Building and deploying **End-to-End Machine Learning Pipelines**.
+- Enhancing my knowledge in **Database Management** and **ETL Processes**. 
 
 ### 🤝 Looking to Collaborate On
 - Open-source projects in data science and Python development.  
