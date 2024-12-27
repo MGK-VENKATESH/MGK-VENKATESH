@@ -19,8 +19,7 @@ I'm a passionate **Data Science Aspirant** and skilled **Python Developer**, I a
 - Data visualization tools and storytelling dashboards.  
 
 ### 📫 How to Reach Me
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/m-geetha-krishna-venkatesh-742416269/) 
-- **GitHub**: [GitHub Profile](https://github.com/your-profile)  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/m-geetha-krishna-venkatesh-742416269/)  
 - **Email**: mgkvenkatesh3@gmail.com  
 
 ### 😄 Pronouns
