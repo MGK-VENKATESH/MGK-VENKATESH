@@ -8,7 +8,16 @@
 
 I'm a passionate **Data Science Aspirant** and skilled **Python Developer**, I am deeply interested in crafting data-driven solutions that build impact. My interest lies in exploring advanced machine learning techniques, data visualization, and workflow automation using Python.
 
-
+### 🛠️ Technical Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📈 Currently Working On
 - Developing predictive models and exploring ML algorithms.  
@@ -50,9 +59,11 @@ He/Him
 ### 📊 GitHub Stats
 
 ![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGK-VENKATESH&show_icons=true&theme=radical)  
+
+
 ## 📊 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGK-VENKATESH&layout=compact&theme=radical)](https://github.com/MGK-VENKATESH)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MGK-VENKATESH&hide=Jupyter%20Notebook,HTML&layout=compact&theme=radical)
 
 ### 🏆 Highlights  
 - 📂 Check out my recent project: **[Spread of COVID 19](https://github.com/MGK-VENKATESH/Mac-VS-code/tree/main/Python/BTHAssignment2)**  
@@ -60,7 +71,7 @@ He/Him
 
 ---
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=MGK-VENKATESH&color=blueviolet)
 
 <!--
 **MGK-VENKATESH/MGK-VENKATESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
