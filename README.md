@@ -27,6 +27,10 @@ He/Him
 
 ### 📊 GitHub Stats
 ![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGK-VENKATESH&show_icons=true&theme=radical)  
+## 📊 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGK-VENKATESH&layout=compact&theme=radical)](https://github.com/MGK-VENKATESH)
+
 
 ### 🏆 Highlights  
 - 📂 Check out my recent project: **[Spread of COVID 19](https://github.com/MGK-VENKATESH/Mac-VS-code/tree/main/Python/BTHAssignment2)**  
