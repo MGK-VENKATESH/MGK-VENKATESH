@@ -55,10 +55,18 @@ I'm a passionate **Data Science Aspirant** and skilled **Python Developer**, I a
 ### 😄 Pronouns
 He/Him  
 
+### 📊 GitHub Stats and Streak
 
-### 📊 GitHub Stats
-
-![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGK-VENKATESH&show_icons=true&theme=radical)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MGK-VENKATESH&show_icons=true&theme=radical" alt="Venkatesh's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MGK-VENKATESH&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 Top Languages
@@ -69,9 +77,6 @@ He/Him
 - 📂 Check out my recent project: **[Spread of COVID 19](https://github.com/MGK-VENKATESH/Mac-VS-code/tree/main/Python/BTHAssignment2)**  
 - 🌟 Top skills: **Python, Pandas, NumPy, Matplotlib, Scikit-Learn, SQL**  
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=MGK-VENKATESH&color=blueviolet)
 
 <!--
 **MGK-VENKATESH/MGK-VENKATESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
