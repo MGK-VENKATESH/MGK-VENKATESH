@@ -74,7 +74,7 @@ He/Him
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MGK-VENKATESH&hide=Jupyter%20Notebook,HTML&layout=compact&theme=radical)
 
 ### 🏆 Highlights  
-- 📂 Check out my recent project: **[Spread of COVID 19](https://github.com/MGK-VENKATESH/Mac-VS-code/tree/main/Python/BTHAssignment2)**, **[Fake News Detection using LSTM, GRU, BERT](https://github.com/MGK-VENKATESH/Mac-VS-code/tree/main/Python/BTHAssignment2)**
+- 📂 Check out my recent project: **[Spread of COVID 19](https://github.com/MGK-VENKATESH/Mac-VS-code/tree/main/Python/BTHAssignment2)**, **[Fake News Detection using LSTM, GRU, BERT](https://github.com/MGK-VENKATESH/Bachelors-Thesis)**
 - 🌟 Top skills: **Python, Pandas, NumPy, Matplotlib, Scikit-Learn, SQL**  
 
 
