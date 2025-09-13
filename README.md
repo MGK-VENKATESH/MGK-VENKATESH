@@ -74,7 +74,7 @@ He/Him
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MGK-VENKATESH&hide=Jupyter%20Notebook,HTML&layout=compact&theme=radical)
 
 ### 🏆 Highlights  
-- 📂 Check out my recent project: **[Spread of COVID 19](https://github.com/MGK-VENKATESH/Mac-VS-code/tree/main/Python/BTHAssignment2)**, **[Fake News Detection using LSTM, GRU, BERT](https://github.com/MGK-VENKATESH/Bachelors-Thesis)**, **[Credit card approval prediction](https://github.com/MGK-VENKATESH/Credit-card-approval-prediction)**, **[Virtual-Mouse](https://github.com/MGK-VENKATESH/Virtual-Mouse)** & **[more...](https://github.com/MGK-VENKATESH?tab=repositories)**
+- 📂 Check out my projects: **[Spread of COVID 19](https://github.com/MGK-VENKATESH/Mac-VS-code/tree/main/Python/BTHAssignment2)**, **[Fake News Detection using LSTM, GRU, BERT](https://github.com/MGK-VENKATESH/Bachelors-Thesis)**, **[Credit card approval prediction](https://github.com/MGK-VENKATESH/Credit-card-approval-prediction)**, **[Virtual-Mouse](https://github.com/MGK-VENKATESH/Virtual-Mouse)** & **[more...](https://github.com/MGK-VENKATESH?tab=repositories)**
 - 🌟 Top skills: **Python, Pandas, NumPy, Matplotlib, Scikit-Learn, SQL**  
 
 
